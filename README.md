@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/IhitplayzYT/LeetCode/tree/master/0043-multiply-strings) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/IhitplayzYT/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Simulation
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 ## Design
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/IhitplayzYT/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2139-detect-squares](https://github.com/IhitplayzYT/LeetCode/tree/master/2139-detect-squares) |
 ## Counting
 |  |
@@ -44,4 +46,12 @@
 | ------- |
 | [0051-n-queens](https://github.com/IhitplayzYT/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/IhitplayzYT/LeetCode/tree/master/0052-n-queens-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/IhitplayzYT/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/IhitplayzYT/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
