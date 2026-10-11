@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/IhitplayzYT/LeetCode/tree/master/0051-n-queens) |
 | [2139-detect-squares](https://github.com/IhitplayzYT/LeetCode/tree/master/2139-detect-squares) |
 ## Hash Table
 |  |
@@ -33,4 +34,12 @@
 |  |
 | ------- |
 | [2139-detect-squares](https://github.com/IhitplayzYT/LeetCode/tree/master/2139-detect-squares) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/IhitplayzYT/LeetCode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/IhitplayzYT/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
