@@ -2,34 +2,23 @@
  * Definition for a binary tree node.
  * type TreeNode struct {
  *     Val int
- *     Left *TreeNode
- *     Right *TreeNode
+ *     l *TreeNode
+ *     r *TreeNode
  * }
  */
+
 func diameterOfBinaryTree(root *TreeNode) int {
     mx := 0
-    recurse(root,&mx)
+    var height func(*TreeNode) int
+
+    height = func(node *TreeNode) int {
+        if node == nil {
+            return 0
+        }
+        l,r := height(node.Left),height(node.Right)
+        mx = max(mx, l+r)
+        return 1 + max(l, r)
+    }
+    height(root)
     return mx
 }
-
-func recurse(root *TreeNode,mx *int){
-    if root == nil {return}
-    *mx = max(*mx,diameter(root))
-    recurse(root.Left,mx)
-    recurse(root.Right,mx)
-}
-
-
-func diameter(node *TreeNode) int{
-    if node == nil {return 0}
-    return height(node.Left) + height(node.Right)
-}
-
-func height(node * TreeNode) int {
-    if node == nil {return 0}
-    return 1 + max(height(node.Left),height(node.Right))
-}
-
-
-
-
