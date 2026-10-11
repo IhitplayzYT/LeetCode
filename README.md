@@ -21,6 +21,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/IhitplayzYT/LeetCode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/IhitplayzYT/LeetCode/tree/master/0079-word-search) |
+| [0198-house-robber](https://github.com/IhitplayzYT/LeetCode/tree/master/0198-house-robber) |
 | [2139-detect-squares](https://github.com/IhitplayzYT/LeetCode/tree/master/2139-detect-squares) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/IhitplayzYT/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Hash Table
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/IhitplayzYT/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/IhitplayzYT/LeetCode/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
