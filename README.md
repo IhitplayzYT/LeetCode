@@ -73,6 +73,7 @@
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/IhitplayzYT/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1254-deepest-leaves-sum](https://github.com/IhitplayzYT/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/IhitplayzYT/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Trie
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/IhitplayzYT/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1254-deepest-leaves-sum](https://github.com/IhitplayzYT/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/IhitplayzYT/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/IhitplayzYT/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1254-deepest-leaves-sum](https://github.com/IhitplayzYT/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/IhitplayzYT/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## DP on Trees
 |  |
 | ------- |
@@ -135,6 +138,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/IhitplayzYT/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/IhitplayzYT/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -155,4 +159,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/IhitplayzYT/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Sorting
+|  |
+| ------- |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/IhitplayzYT/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
