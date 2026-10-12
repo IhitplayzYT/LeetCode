@@ -1,5 +1,5 @@
 func lowestCommonAncestor(root, p, q *TreeNode) *TreeNode {
-	p_pth,q_pth := get_path(root,p.Val),get_path(root,q.Val)
+	p_pth,q_pth := get_bst_path(root,p.Val),get_bst_path(root,q.Val)
 	lp,lq := len(p_pth),len(q_pth)
 	var ret *TreeNode = nil
 	for i,j:=0,0;i < lp && j < lq && p_pth[i].Val == q_pth[j].Val;{
@@ -10,33 +10,19 @@ func lowestCommonAncestor(root, p, q *TreeNode) *TreeNode {
 	return ret	
 }
 
-func get_path(node * TreeNode,tgt int) []*TreeNode{
-  path := []*TreeNode{}
+func get_bst_path(root *TreeNode,tgt int) []*TreeNode{
+    pth := make([]*TreeNode,0)
+	    for root != nil {
+        pth = append(pth, root)
 
-    var dfs func(*TreeNode) bool
-    dfs = func(node *TreeNode) bool {
-        if node == nil {
-            return false
+        if root.Val == tgt {
+            return pth
+        } else if root.Val > tgt {
+            root = root.Left
+        } else {
+            root = root.Right
         }
-
-        path = append(path, node)
-
-        if node.Val == tgt {
-            return true
-        }
-
-        if dfs(node.Left) || dfs(node.Right) {
-            return true
-        }
-
-        path = path[:len(path)-1]
-        return false
     }
-
-    if !dfs(node) {
-        return nil
-    }
-
-    return path
+    return pth
 }
 
