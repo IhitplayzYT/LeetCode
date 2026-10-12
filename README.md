@@ -62,6 +62,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/IhitplayzYT/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/IhitplayzYT/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Trie
 |  |
@@ -78,6 +79,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/IhitplayzYT/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/IhitplayzYT/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -85,6 +87,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/IhitplayzYT/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/IhitplayzYT/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
@@ -113,8 +116,10 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
