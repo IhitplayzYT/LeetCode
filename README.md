@@ -31,6 +31,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/IhitplayzYT/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2139-detect-squares](https://github.com/IhitplayzYT/LeetCode/tree/master/2139-detect-squares) |
 ## Design
 |  |
@@ -38,6 +39,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/IhitplayzYT/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/IhitplayzYT/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2139-detect-squares](https://github.com/IhitplayzYT/LeetCode/tree/master/2139-detect-squares) |
 ## Counting
 |  |
@@ -69,6 +71,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/IhitplayzYT/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -88,6 +91,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/IhitplayzYT/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -98,6 +102,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/IhitplayzYT/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -120,6 +125,7 @@
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/IhitplayzYT/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/IhitplayzYT/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
