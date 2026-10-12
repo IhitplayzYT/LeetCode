@@ -61,6 +61,7 @@
 | [0079-word-search](https://github.com/IhitplayzYT/LeetCode/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/IhitplayzYT/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/IhitplayzYT/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Trie
 |  |
@@ -76,12 +77,14 @@
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/IhitplayzYT/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/IhitplayzYT/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/IhitplayzYT/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/IhitplayzYT/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
@@ -102,4 +105,16 @@
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/IhitplayzYT/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
