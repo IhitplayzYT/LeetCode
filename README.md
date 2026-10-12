@@ -10,6 +10,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/IhitplayzYT/LeetCode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/IhitplayzYT/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/IhitplayzYT/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/IhitplayzYT/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Simulation
@@ -51,6 +52,7 @@
 | [0051-n-queens](https://github.com/IhitplayzYT/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/IhitplayzYT/LeetCode/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/IhitplayzYT/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/IhitplayzYT/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/IhitplayzYT/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/IhitplayzYT/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/IhitplayzYT/LeetCode/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/IhitplayzYT/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Breadth-First Search
