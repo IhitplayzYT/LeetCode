@@ -24,6 +24,7 @@
 | [0079-word-search](https://github.com/IhitplayzYT/LeetCode/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/IhitplayzYT/LeetCode/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/IhitplayzYT/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/IhitplayzYT/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2139-detect-squares](https://github.com/IhitplayzYT/LeetCode/tree/master/2139-detect-squares) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/IhitplayzYT/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/IhitplayzYT/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
@@ -147,6 +148,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/IhitplayzYT/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/IhitplayzYT/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/IhitplayzYT/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -171,9 +173,18 @@
 |  |
 | ------- |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/IhitplayzYT/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1977-minimum-interval-to-include-each-query](https://github.com/IhitplayzYT/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/IhitplayzYT/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/IhitplayzYT/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
+## Sweep Line
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/IhitplayzYT/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1977-minimum-interval-to-include-each-query](https://github.com/IhitplayzYT/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
