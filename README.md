@@ -26,6 +26,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/IhitplayzYT/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [2139-detect-squares](https://github.com/IhitplayzYT/LeetCode/tree/master/2139-detect-squares) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/IhitplayzYT/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/IhitplayzYT/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,4 +171,9 @@
 |  |
 | ------- |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/IhitplayzYT/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/IhitplayzYT/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
+## Greedy
+|  |
+| ------- |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/IhitplayzYT/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
