@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0355-design-twitter](https://github.com/IhitplayzYT/LeetCode/tree/master/0355-design-twitter) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/IhitplayzYT/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2139-detect-squares](https://github.com/IhitplayzYT/LeetCode/tree/master/2139-detect-squares) |
@@ -44,6 +45,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/IhitplayzYT/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/IhitplayzYT/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0355-design-twitter](https://github.com/IhitplayzYT/LeetCode/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/IhitplayzYT/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2139-detect-squares](https://github.com/IhitplayzYT/LeetCode/tree/master/2139-detect-squares) |
@@ -195,6 +197,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/IhitplayzYT/LeetCode/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/IhitplayzYT/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/IhitplayzYT/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/IhitplayzYT/LeetCode/tree/master/1127-last-stone-weight) |
@@ -215,4 +218,8 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/IhitplayzYT/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/IhitplayzYT/LeetCode/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
