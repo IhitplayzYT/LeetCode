@@ -41,6 +41,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/IhitplayzYT/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/IhitplayzYT/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/IhitplayzYT/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2139-detect-squares](https://github.com/IhitplayzYT/LeetCode/tree/master/2139-detect-squares) |
 ## Counting
@@ -50,6 +51,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/IhitplayzYT/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2139-detect-squares](https://github.com/IhitplayzYT/LeetCode/tree/master/2139-detect-squares) |
 ## Backtracking
 |  |
@@ -96,6 +98,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/IhitplayzYT/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/IhitplayzYT/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/IhitplayzYT/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/IhitplayzYT/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -111,6 +114,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/IhitplayzYT/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/IhitplayzYT/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/IhitplayzYT/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/IhitplayzYT/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -147,6 +151,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/IhitplayzYT/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/IhitplayzYT/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/IhitplayzYT/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/IhitplayzYT/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Binary Lifting
@@ -186,5 +191,6 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/IhitplayzYT/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/IhitplayzYT/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
