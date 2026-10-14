@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/IhitplayzYT/LeetCode/tree/master/0043-multiply-strings) |
+| [1014-k-closest-points-to-origin](https://github.com/IhitplayzYT/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0079-word-search](https://github.com/IhitplayzYT/LeetCode/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/IhitplayzYT/LeetCode/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/IhitplayzYT/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1014-k-closest-points-to-origin](https://github.com/IhitplayzYT/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/IhitplayzYT/LeetCode/tree/master/1127-last-stone-weight) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/IhitplayzYT/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2139-detect-squares](https://github.com/IhitplayzYT/LeetCode/tree/master/2139-detect-squares) |
@@ -178,6 +180,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/IhitplayzYT/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/IhitplayzYT/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/IhitplayzYT/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/IhitplayzYT/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
@@ -193,6 +196,23 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/IhitplayzYT/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/IhitplayzYT/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/IhitplayzYT/LeetCode/tree/master/1127-last-stone-weight) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/IhitplayzYT/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/IhitplayzYT/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/IhitplayzYT/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/IhitplayzYT/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/IhitplayzYT/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
