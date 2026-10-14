@@ -24,6 +24,7 @@
 | [0079-word-search](https://github.com/IhitplayzYT/LeetCode/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/IhitplayzYT/LeetCode/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/IhitplayzYT/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1127-last-stone-weight](https://github.com/IhitplayzYT/LeetCode/tree/master/1127-last-stone-weight) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/IhitplayzYT/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2139-detect-squares](https://github.com/IhitplayzYT/LeetCode/tree/master/2139-detect-squares) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/IhitplayzYT/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -192,5 +193,6 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/IhitplayzYT/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/IhitplayzYT/LeetCode/tree/master/1127-last-stone-weight) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/IhitplayzYT/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
