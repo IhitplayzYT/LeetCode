@@ -26,6 +26,7 @@
 | [0079-word-search](https://github.com/IhitplayzYT/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/IhitplayzYT/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/IhitplayzYT/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/IhitplayzYT/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IhitplayzYT/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/IhitplayzYT/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/IhitplayzYT/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0079-word-search](https://github.com/IhitplayzYT/LeetCode/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/IhitplayzYT/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/IhitplayzYT/LeetCode/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/IhitplayzYT/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/IhitplayzYT/LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/IhitplayzYT/LeetCode/tree/master/0200-number-of-islands) |
 ## Tree
 |  |
 | ------- |
@@ -159,6 +162,7 @@
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/IhitplayzYT/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0200-number-of-islands](https://github.com/IhitplayzYT/LeetCode/tree/master/0200-number-of-islands) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/IhitplayzYT/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/IhitplayzYT/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/IhitplayzYT/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -256,4 +260,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/IhitplayzYT/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/IhitplayzYT/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
