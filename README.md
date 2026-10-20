@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/IhitplayzYT/LeetCode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/IhitplayzYT/LeetCode/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/IhitplayzYT/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/IhitplayzYT/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/IhitplayzYT/LeetCode/tree/master/0198-house-robber) |
@@ -149,6 +150,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/IhitplayzYT/LeetCode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/IhitplayzYT/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/IhitplayzYT/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/IhitplayzYT/LeetCode/tree/master/0198-house-robber) |
@@ -204,6 +206,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/IhitplayzYT/LeetCode/tree/master/0055-jump-game) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/IhitplayzYT/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Sweep Line
 |  |
