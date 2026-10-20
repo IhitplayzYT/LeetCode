@@ -28,6 +28,7 @@
 | [0198-house-robber](https://github.com/IhitplayzYT/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/IhitplayzYT/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IhitplayzYT/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0695-max-area-of-island](https://github.com/IhitplayzYT/LeetCode/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/IhitplayzYT/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/IhitplayzYT/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/IhitplayzYT/LeetCode/tree/master/1127-last-stone-weight) |
@@ -86,6 +87,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/IhitplayzYT/LeetCode/tree/master/0695-max-area-of-island) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/IhitplayzYT/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0832-binary-tree-pruning](https://github.com/IhitplayzYT/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/IhitplayzYT/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -104,6 +106,7 @@
 | ------- |
 | [0079-word-search](https://github.com/IhitplayzYT/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/IhitplayzYT/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/IhitplayzYT/LeetCode/tree/master/0695-max-area-of-island) |
 ## Tree
 |  |
 | ------- |
@@ -163,6 +166,7 @@
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/IhitplayzYT/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0200-number-of-islands](https://github.com/IhitplayzYT/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/IhitplayzYT/LeetCode/tree/master/0695-max-area-of-island) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/IhitplayzYT/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/IhitplayzYT/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/IhitplayzYT/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -264,4 +268,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/IhitplayzYT/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/IhitplayzYT/LeetCode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
