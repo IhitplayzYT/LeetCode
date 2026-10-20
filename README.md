@@ -23,6 +23,7 @@
 | ------- |
 | [0051-n-queens](https://github.com/IhitplayzYT/LeetCode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/IhitplayzYT/LeetCode/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/IhitplayzYT/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/IhitplayzYT/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/IhitplayzYT/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/IhitplayzYT/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -183,6 +184,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/IhitplayzYT/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0173-binary-search-tree-iterator](https://github.com/IhitplayzYT/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
 |  |
@@ -235,4 +237,12 @@
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/IhitplayzYT/LeetCode/tree/master/0355-design-twitter) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/IhitplayzYT/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/IhitplayzYT/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
