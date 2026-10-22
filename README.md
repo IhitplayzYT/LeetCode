@@ -31,6 +31,7 @@
 | [0695-max-area-of-island](https://github.com/IhitplayzYT/LeetCode/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/IhitplayzYT/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/IhitplayzYT/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/IhitplayzYT/LeetCode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/IhitplayzYT/LeetCode/tree/master/1127-last-stone-weight) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/IhitplayzYT/LeetCode/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2139-detect-squares](https://github.com/IhitplayzYT/LeetCode/tree/master/2139-detect-squares) |
@@ -109,6 +110,7 @@
 | [0079-word-search](https://github.com/IhitplayzYT/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/IhitplayzYT/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/IhitplayzYT/LeetCode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/IhitplayzYT/LeetCode/tree/master/1036-rotting-oranges) |
 ## Tree
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 | [0695-max-area-of-island](https://github.com/IhitplayzYT/LeetCode/tree/master/0695-max-area-of-island) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/IhitplayzYT/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/IhitplayzYT/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1036-rotting-oranges](https://github.com/IhitplayzYT/LeetCode/tree/master/1036-rotting-oranges) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/IhitplayzYT/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/IhitplayzYT/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
