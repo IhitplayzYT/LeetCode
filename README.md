@@ -14,6 +14,7 @@
 | [0131-palindrome-partitioning](https://github.com/IhitplayzYT/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/IhitplayzYT/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/IhitplayzYT/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0678-valid-parenthesis-string](https://github.com/IhitplayzYT/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Simulation
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/IhitplayzYT/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/IhitplayzYT/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/IhitplayzYT/LeetCode/tree/master/0198-house-robber) |
+| [0678-valid-parenthesis-string](https://github.com/IhitplayzYT/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/IhitplayzYT/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Breadth-First Search
 |  |
@@ -213,6 +215,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/IhitplayzYT/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0173-binary-search-tree-iterator](https://github.com/IhitplayzYT/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0678-valid-parenthesis-string](https://github.com/IhitplayzYT/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Iterator
 |  |
 | ------- |
@@ -230,6 +233,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/IhitplayzYT/LeetCode/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/IhitplayzYT/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/IhitplayzYT/LeetCode/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Sweep Line
 |  |
@@ -289,4 +293,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/IhitplayzYT/LeetCode/tree/master/0133-clone-graph) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/IhitplayzYT/LeetCode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
